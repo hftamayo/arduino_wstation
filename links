@@ -1,0 +1,68 @@
+https://github.com/ThingPulse/esp8266-oled-ssd1306
+https://docs.thingpulse.com/how-tos/openweathermap-key/
+https://home.openweathermap.org/
+https://naylampmechatronics.com/espressif-esp/153-nodemcu-v2-esp8266-wifi.html
+https://github.com/squix78?page=2&tab=repositories
+https://github.com/squix78/esp8266-projects/tree/master/arduino-ide/weather-station-v2
+https://blog.squix.org/2015/12/esp8266-weather-station-measuring-2.html
+https://blog.squix.org/2015/07/weatherstation-kit-complete-setup-guide.html
+https://www.amazon.com/dp/B07T2KFD4M?psc=1&ref=ppx_yo2ov_dt_b_product_details
+https://www.youtube.com/@RoboCircuits/videos
+https://iotprojectsideas.com/interfacing-bme280-sensor-with-arduino/
+https://www.instructables.com/How-to-Make-Simple-Weather-Station-Using-Arduino/
+https://circuitdigest.com/microcontroller-projects/esp12-nodemcu-based-iot-weather-station
+https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
+https://www.reddit.com/r/arduino/comments/tv7dpw/warning_elegoo_dht11_wiring/
+https://www.youtube.com/@sunfoundermakereducation8590/videos
+https://www.google.com/search?q=hydroponic+crop+with+raspberry+pi&client=firefox-b-d&sxsrf=APwXEdfmGmXpTyFArITmNvHURN-OBiz8WA:1681093477456&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjphrucoZ7-AhVXmYQIHR0jBosQ_AUoAXoECAEQAw&biw=1600&bih=707&dpr=1
+https://www.hackster.io/bltrobotics/vertical-hydroponic-farm-44fef9
+https://itsfoss.com/raspberry-pi-projects/
+
+https://lastminuteengineers.com/oled-display-esp8266-tutorial/
+https://lastminuteengineers.com/bme280-esp32-weather-station/
+
+
+SENSOR #1
+
+Air quality monitor usando raspberry pi y el monitoring Hat:
+https://www.youtube.com/watch?v=WvEfLZyLnhA
+https://github.com/sbcshop/Air-Monitoring-HAT
+
+SENSOR #2
+air quality monitor usando rasp pi y el sensor BME280:
+https://www.waveshare.com/wiki/BME280_Environmental_Sensor
+https://www.youtube.com/watch?v=6khFJZ0M5es&t=120s
+https://www.waveshare.com/bme280-environmental-sensor.htm
+https://www.youtube.com/watch?v=7dwWYn9_OhA
+https://www.youtube.com/watch?v=mXY_6LOekkw
+
+
+SENSOR #3 (este sensor es muy caro)
+air quality usando raspberry pi y el sensor SPS30
+https://www.hackster.io/david-gherghita/air-quality-monitor-using-raspberry-pi-4-sps30-and-azure-03cb42
+https://sensirion.com/products/product-categories/particulate-matter/
+
+
+SENSOR #4
+Ai quality monutor usando raspberry pi y picodev:
+https://www.youtube.com/watch?v=VjVSkd2II1s
+https://core-electronics.com.au/guides/piicodev-air-quality-sensor-ens160-getting-started-guide/#
+
+explicacion sobre cómo funciona un sensor con arduino:
+https://www.youtube.com/watch?v=G5pAUqQ3-UU
+
+
+recursos sobre estacion climatica usando el sensor BME280
+https://www.amazon.com/BME280/s?k=BME280
+https://www.raspberrypi.com/news/build-your-own-weather-station/
+
+
+Pagina general de proyectos:
+https://www.instructables.com/9-12-Projects-High-School/
+
+
+Raspberry leaf: https://www.raspberrypi.com/news/raspberry-leaf/
+
+
+cultivos hidroponicos: https://www.hackster.io/bltrobotics/vertical-hydroponic-farm-44fef9
+

@@ -1,0 +1,11 @@
+1. STEPS FOR INSTALLING ESP32 ON LINUX:
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-mac-and-linux-instructions/
+
+https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/
+
+https://linuxhint.com/install-esp8266-arduino-ide/
+
+el usuario debe ser parte del grupo dialout: sudo adduser $USER dialout
+
+2. CODIGO DE PRUEBA:
+https://tttapa.github.io/ESP8266/Chap07%20-%20Wi-Fi%20Connections.html 

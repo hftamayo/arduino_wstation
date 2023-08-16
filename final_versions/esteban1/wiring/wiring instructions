@@ -1,0 +1,19 @@
+WIRING INSTRUCTIONS: please refer to the images
+
+I2C:
+-Black:	GND
+-White:	VCC
+-Red:	SDA
+-ORange:	SCL
+
+I2C To Arduino:
+-White:	5V
+-Black:	GND
+-Red:	A4
+-Orange:	A5
+
+
+DHT11 to Arduino:
+-Green: 	D2
+-Red: 	3.3V
+-Black:	GND
